@@ -4,7 +4,7 @@ Version: 0.0.1
 Authors@R: 
     person("Bastiaan", "Quast", , "bquast@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-2951-3577"))
-Description: Various tools for working on Fully Homomorphic Encryption.
+Description: Homomorphic Encryption
 Depends: polynom
 License: MIT + file LICENSE
 Encoding: UTF-8
