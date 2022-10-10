@@ -1,10 +1,10 @@
 Package: HEtools
-Title: Tools for Homomorphic Encryption in R
+Title: Homomorphic Encryption
 Version: 0.0.1
 Authors@R: 
     person("Bastiaan", "Quast", , "bquast@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-2951-3577"))
-Description: Homomorphic Encryption
+Description: Various functions used for Fully Homomorphic Encryption (RLWE).
 Depends: polynom
 License: MIT + file LICENSE
 Encoding: UTF-8
