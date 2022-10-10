@@ -1,0 +1,12 @@
+Package: HEtools
+Title: Tools for Homomorphic Encryption in R
+Version: 0.0.1
+Authors@R: 
+    person("Bastiaan", "Quast", , "bquast@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-2951-3577"))
+Description: Various tools for working on Fully Homomorphic Encryption.
+Depends: polynom
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
