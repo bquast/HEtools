@@ -3,6 +3,12 @@ Maintainer: 'Bastiaan Quast <bquast@gmail.com>'
 
 New submission
 
+possibley misspelled words:
+
+* Homomorphic
+* RLWE
+
+---> both are not misspelled
 
 
 ── R CMD check results ─── HEtools 0.0.1 ────
