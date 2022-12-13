@@ -1,12 +1,15 @@
 Package: HEtools
-Title: Homomorphic Encryption
-Version: 0.0.1
+Title: Homomorphic Encryption Polynomials
+Version: 0.1.0
 Authors@R: 
     person("Bastiaan", "Quast", , "bquast@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-2951-3577"))
-Description: Various functions used for Fully Homomorphic Encryption (RLWE).
+Description: Various functions used for Fully Homomorphic Encryption.
 Depends: polynom
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
