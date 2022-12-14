@@ -4,12 +4,7 @@ Version: 0.1.0
 Authors@R: 
     person("Bastiaan", "Quast", , "bquast@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-2951-3577"))
-Description: Homomorphic encryption (Brakerski and Vaikuntanathan (2014) <doi:10.1137/120868669>)
-using Ring Learning with Errors (Lyubashevsky et al. (2012) <https://eprint.iacr.org/2012/230>)
-is form of Learning with Errors (Regev (2005) <doi:10.1145/1060590.1060603>) using 
-polynomial rings over finnite fields. Various functions to generate the required 
-polynomials (using polynom), with various distributions of coefficients are provided.
-Additionally, a functions to generate and take coefficient modulo are provided.
+Description: Homomorphic encryption (Brakerski and Vaikuntanathan (2014) <doi:10.1137/120868669>) using Ring Learning with Errors (Lyubashevsky et al. (2012) <https://eprint.iacr.org/2012/230>) is form of Learning with Errors (Regev (2005) <doi:10.1145/1060590.1060603>) using polynomial rings over finnite fields. Functions to generate the required polynomials (using polynom), with various distributions of coefficients are provided. Additionally, a functions to generate and take coefficient modulo are provided. 
 Depends: polynom
 License: MIT + file LICENSE
 Encoding: UTF-8
