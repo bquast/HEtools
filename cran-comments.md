@@ -11,12 +11,9 @@ Possibly misspelled words in DESCRIPTION:
   Vaikuntanathan (7:52)
   al (7:148)
   et (7:145)
-  polynom (7:371)
-
 
 * the first 5 are names
 * et al is abbreviated latin for et alli, meaning and others, common for short author lists
-* polynom is the name of a CRAN package (dependency)
 
 ─ R CMD check results ───────── HEtools 0.1.0 ────
 Duration: 23s
