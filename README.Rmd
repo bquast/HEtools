@@ -16,7 +16,11 @@ knitr::opts_chunk$set(
 # HEtools
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/bquast/HEtools/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/bquast/HEtools/actions/workflows/R-CMD-check.yaml)
+  [![License](https://img.shields.io/badge/license-GPLv3-brightgreen.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
+    [![CRAN status](https://www.r-pkg.org/badges/version/HEtools)](https://CRAN.R-project.org/package=HEtools)
+  [![R-CMD-check](https://github.com/bquast/HEtools/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/bquast/HEtools/actions/workflows/R-CMD-check.yaml)
+  [![Total RStudio Cloud Downloads](https://cranlogs.r-pkg.org/badges/grand-total/HEtools?color=brightgreen)](https://cran.r-project.org/package=HEtools)
+[![RStudio Cloud Downloads](https://cranlogs.r-pkg.org/badges/HEtools?color=brightgreen)](https://cran.r-project.org/package=HEtools)
 <!-- badges: end -->
 
 Homomorphic encryption (Brakerski and Vaikuntanathan (2014) <doi:10.1137/120868669>) using Ring Learning with Errors (Lyubashevsky et al. (2012) <https://eprint.iacr.org/2012/230>) is a form of Learning with Errors (Regev (2005) <doi:10.1145/1060590.1060603>) using polynomial rings over finite fields. Functions to generate the required polynomials (using 'polynom'), with various distributions of coefficients are provided. Additionally, functions to generate and take coefficient modulo are provided.
