@@ -1,11 +1,11 @@
 library(testthat)
 
-# Ternary
+# GenTernary
 set.seed(123)
 ternary <- GenTernary(5)
 expect_equal(as.vector(ternary)[5],1)
 
-# Gaussian
+# GenGauss - Discrete Gaussian
 set.seed(123)
 gauss <- GenDiscrGauss(5)
 expect_equal(as.vector(gauss)[1],-1)
@@ -19,6 +19,6 @@ set.seed(123)
 p <- GenPolyMod(5)
 expect_equal(sum(p[]),2)
 
-# GenUnif
+# GenUnif - Uniform
 set.seed(123)
 expect_equal(GenUnif(5,7)[],26)
