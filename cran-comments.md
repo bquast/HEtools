@@ -15,7 +15,7 @@ Possibly misspelled words in DESCRIPTION:
 * the first 5 are names
 * et al is abbreviated latin for et alli, meaning and others, common for short author lists
 
-─ R CMD check results ───────── HEtools 0.1.0 ────
+─ R CMD check results ───────── HEtools 1.0.0 ────
 Duration: 23s
 
 0 errors ✔ | 0 warnings ✔ | 0 notes ✔
