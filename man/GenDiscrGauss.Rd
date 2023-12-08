@@ -19,7 +19,7 @@ Generate Polynomial with Discrete Gaussian Coefficients
 }
 \examples{
 n = 5
-GenDiscrGauss(5)
+GenDiscrGauss(n)
 
 GenDiscrGauss(n=5, s=2)
 }
