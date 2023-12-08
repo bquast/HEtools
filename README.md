@@ -20,8 +20,8 @@ You can install the development version of HEtools from
 [GitHub](https://github.com/) with:
 
 ``` r
-# install.packages("devtools")
-devtools::install_github("bquast/HEtools")
+if (!require('remotes')) install.packages('remotes')
+remotes::install_github("bquast/HEtools")
 ```
 
 ## Example
