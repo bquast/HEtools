@@ -1,4 +1,4 @@
-# HEtools 0.3.0
+# HEtools 1.0.0
 
 * migrate parts from HomomorphicEncryption package
 * add unit tests
