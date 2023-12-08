@@ -21,4 +21,4 @@ expect_equal(sum(p[]),2)
 
 # GenUnif - Uniform
 set.seed(123)
-expect_equal(GenUnif(5,7)[],26)
+expect_equal(sum(GenUnif(5,7)[]),26)
