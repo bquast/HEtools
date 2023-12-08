@@ -18,3 +18,7 @@ expect_equal(CoefMod(p,5)[2],3)
 set.seed(123)
 p <- GenPolyMod(5)
 expect_equal(sum(p[]),2)
+
+# GenUnif
+set.seed(123)
+expect_equal(GenUnif(5,7)[],26)
