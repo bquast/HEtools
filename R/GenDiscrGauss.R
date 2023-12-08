@@ -6,7 +6,7 @@
 #' @export
 #' @examples
 #' n = 5
-#' GenDiscrGauss(5)
+#' GenDiscrGauss(n)
 #'
 #' GenDiscrGauss(n=5, s=2)
 GenDiscrGauss <- function(n, s=3)
